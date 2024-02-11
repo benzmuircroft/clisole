@@ -1,0 +1,2 @@
+# clisole
+🧑‍💻 clisole - console client
